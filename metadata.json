@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Carely AI Customer Operations",
+  "description": "A production-ready AI customer operations platform for SMEs, featuring omnichannel inbox, automated booking, and AI-driven business knowledge retrieval.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
